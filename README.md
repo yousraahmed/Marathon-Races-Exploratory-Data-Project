@@ -1,5 +1,9 @@
-### Ultra-Marathon Races Analysis
+**Ultra Marathon Running Analysis Project**
 
-This project provides an in-depth examination of athlete performance metrics across various races, with a specific focus on seasonal variations. Using the comprehensive dataset from [Kaggle's Big Dataset of Ultra Marathon Running](https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running/discussion/420633), the project embarks on a detailed exploration of how average speeds of athletes fluctuate throughout the year. The analysis involves several key steps, including meticulous data cleaning, feature engineering to categorize races by seasons, and statistical aggregation to identify performance trends.
-The dataset is processed using Python, with libraries such as pandas for data manipulation and matplotlib for creating insightful visualizations.
-Through this detailed analysis, the project aims to provide valuable insights for athletes, coaches, and sports analysts to optimize training schedules, plan races strategically, and ultimately enhance performance outcomes.
+This project analyzes a comprehensive dataset on ultra marathon runners, providing insights into various aspects of these endurance events. The dataset, sourced from [Kaggle](https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running/discussion/420633), includes detailed information on race times, participant demographics, and environmental conditions. Key features of this project include:
+
+- **Data Cleaning and Preprocessing**: Ensuring the dataset is ready for analysis by handling missing values, normalizing data, and feature engineering.
+- **Exploratory Data Analysis (EDA)**: Visualizing trends and patterns in ultra marathon performance across different races and demographic groups.
+- **Insights and Recommendations**: Providing actionable insights for runners, coaches, and event organizers to improve training and race planning.
+
+By leveraging this rich dataset, the project aims to enhance the understanding of ultra marathon running dynamics and contribute valuable findings to the endurance sports community.
