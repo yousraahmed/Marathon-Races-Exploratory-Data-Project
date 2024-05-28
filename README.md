@@ -1,4 +1,4 @@
-**Ultra Marathon Running Analysis Project**
+**Ultra Marathon Runners Analysis Project**
 
 This project analyzes a comprehensive dataset on ultra marathon runners, providing insights into various aspects of these endurance events. The dataset, sourced from [Kaggle](https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running/discussion/420633), includes detailed information on race times, participant demographics, and environmental conditions. Key features of this project include:
 
